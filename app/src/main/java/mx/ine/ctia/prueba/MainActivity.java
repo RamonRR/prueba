@@ -38,5 +38,8 @@ public class MainActivity extends ActionBarActivity {
     public void mostrar(){
 
     }
+    public void delete(){
+
+    }
 
 }
